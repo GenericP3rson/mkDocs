@@ -79,7 +79,8 @@ The final version with just the outline. My next step is to fill my markdown fil
 ##Lastly, deploying.
 To end, we'll host our documentation on GitHub Pages. Simply run mkdocs gh-deploy. It should create a new branch in your repository  that will host your site at USERNAME.github.io/REPOSITORY_NAME.
 And that's it! You've successfully created documentation for your project. If you want to learn how to further customise your documentation or other mkDocs options, visit their website here. Check out my GitHub repository for this tutorial here and the deployed website here.
-##Things to Note for Debugging
+
+## Things to Note for Debugging
 Make sure that you choose to use either tabs or spaces. mkDocs doesn't allow a combination of both.
 If there are spaces in the name, add quotation marks.
 If you're getting a 404 error, that means that you're probably missing a file. Check docs to make sure your file exists there.
