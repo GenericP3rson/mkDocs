@@ -1,5 +1,7 @@
 # Creating Software Documentation in under 10 minutes with mkDocs
-## Why and how to quickly create professional documentation for your projects
+Why and how to quickly create professional documentation for your projects
+
+
 As you work on any project, documentation is extremely helpful, almost critical. Luckily, mkDocs created a nice, efficient method of creating documentation that looks both professional and is easy-to-use.
 ## First, what is documentation and why does it matter?
 Software documentation is writing about your code and your project, explaining what it is about and how it works. This is important for open-source projects, team projects, and even personal projects.
