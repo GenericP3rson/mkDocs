@@ -76,7 +76,7 @@ PROJECT_NAME/
 ```
 If you don't want several documents, categories can also be created with markdown header syntax. If you're unfamiliar with .md files, you can learn more about the syntax here.
 The final version with just the outline. My next step is to fill my markdown files with content!
-##Lastly, deploying.
+## Lastly, deploying.
 To end, we'll host our documentation on GitHub Pages. Simply run mkdocs gh-deploy. It should create a new branch in your repository  that will host your site at USERNAME.github.io/REPOSITORY_NAME.
 And that's it! You've successfully created documentation for your project. If you want to learn how to further customise your documentation or other mkDocs options, visit their website here. Check out my GitHub repository for this tutorial here and the deployed website here.
 
